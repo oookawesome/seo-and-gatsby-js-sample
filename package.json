@@ -11,18 +11,25 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "aws s3 cp \"./public\" s3://seo-sample-page --recursive"
   },
-  "dependencies": {
+  "devDependencies": {
     "babel-plugin-styled-components": "^1.13.2",
+    "dotenv": "^8.6.0",
     "gatsby": "^3.13.1",
+    "gatsby-image": "^3.11.0",
     "gatsby-plugin-image": "^1.14.1",
     "gatsby-plugin-react-helmet": "^4.14.0",
+    "gatsby-plugin-robots-txt": "^1.6.10",
+    "gatsby-plugin-s3": "^0.3.8",
     "gatsby-plugin-sharp": "^3.14.1",
     "gatsby-plugin-sitemap": "^4.10.0",
     "gatsby-plugin-styled-components": "^4.14.0",
+    "gatsby-plugin-typescript": "^3.14.0",
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-sharp": "^3.14.0",
+    "prettier": "^2.4.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
