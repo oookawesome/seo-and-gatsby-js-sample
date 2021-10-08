@@ -2,8 +2,12 @@
 
 ## 골든리트리버 소개 페이지
 
-## SEO 상세 설명 페이지
-[마크다운 링크](/SEO.md)
+![screenshot](/doc/resource/screen.png)
 
-## GatsbyJS 상세 설명 페이지
-[마크다운 링크](/GatsbyJS.md)
+## SEO
+
+[상세 설명 페이지](/doc/SEO.md)
+
+## GatsbyJS
+
+[상세 설명 페이지](/doc/GatsbyJS.md)
