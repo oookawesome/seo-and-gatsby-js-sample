@@ -72,5 +72,12 @@ SEO를 이유로 구글 Search bot을 기술적으로 속이려는 시도는 _�
 사이트맵을 제출했다고 해도, 바로 엔진에 색인되지 않을 수 있음. 구글 검색도구를 통해, 페이지가 제대로 색인이 되었는지, 페이지가 제대로 노출이 되고 있는 지 주기적인 확인이 필요함. 색인이 제대로 되지 않는
 경우, 강제 색인 요청 등도 필요함
 
+---
+
+## 참고 페이지
+
+- [구글 검색엔진 최적화 가이드라인](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+- [SEO score 측정 사이트](https://www.seobility.net)
+- [SEO에 대한 오해와 진실](https://www.twinword.co.kr/blog/truth-and-misunderstanding-about-seo/)
 
 
