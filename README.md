@@ -1,4 +1,4 @@
-# SEO and GatsbyJS sample page
+# SEO and GatsbyJS sample page!
 
 ## 골든리트리버 소개 페이지
 
